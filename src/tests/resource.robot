@@ -17,3 +17,8 @@ Open And Configure Browser
     END
     New Context
     New Page  about:blank
+    Reset application
+
+Reset application
+    Go To  ${HOME_URL}
+    Click  button >> text=Nollaa
